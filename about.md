@@ -1,6 +1,6 @@
 ---
 title: About
-description: Welcome to my blog, this is AboutMe.
+description: Welcome to my blog！
 date: '2019-01-01'
 aliases:
   - about-us
@@ -13,8 +13,12 @@ menu:
         params:
             icon: user
 ---
-## 关于我
+# 关于我
 
 这里就讲讲从开始工作到现在遇到的一些有意思的事情吧✨~
 
 剩下待补充hhh...
+
+* 2018.07 ~ 2019.01：
+* 2019.01 ~ 2020.11：
+* 2020.11 ~ 至今：
